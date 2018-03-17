@@ -1,5 +1,7 @@
 # toh
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zinge/toh.svg)](https://greenkeeper.io/)
+
 > A Vue.js project
 
 ## Build Setup
